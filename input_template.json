@@ -1,0 +1,28 @@
+{
+    "people": [
+        "Ash",
+        "Blair",
+        "Courtney",
+        "Dorian",
+        "Jordan",
+        "Kelly",
+        "Leslie",
+        "Morgan"
+    ],
+    "spouses": [
+        ["Ash", "Blair"],
+        ["Courtney", "Dorian"],
+        ["Jordan", "Kelly"],
+        ["Leslie", "Morgan"]
+    ],
+    "last_year": {
+        "Ash": "Dorian",
+        "Blair": "Jordan",
+        "Courtney": "Kelly",
+        "Dorian": "Leslie",
+        "Jordan": "Morgan",
+        "Kelly": "Ash",
+        "Leslie": "Blair",
+        "Morgan": "Courtney"
+    }
+}
